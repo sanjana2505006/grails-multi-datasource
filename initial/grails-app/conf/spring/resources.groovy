@@ -1,3 +1,1 @@
-// Place your Spring DSL code here
-beans = {
-}
+// Place your Spring bean DSL code here
